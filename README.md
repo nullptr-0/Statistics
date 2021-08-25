@@ -1,5 +1,4 @@
 # Statistics
-
 <b>A database system library using C++</b>
 
 ## History
@@ -17,6 +16,6 @@ Just include all the source code files in your project files.
 Send an issue and/or E-mail me at 959220793@qq.com
 
 ## Contact Me
-E-mail: 959220793@qq.com
-QQ: 959220793
-Tel (In the mainland of China ONLY): 18309182230
+> - E-mail: 959220793@qq.com
+> - QQ: 959220793
+> - Tel (In the mainland of China ONLY): 18309182230
