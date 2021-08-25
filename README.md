@@ -12,7 +12,7 @@ Statistics database system series was first programmed in 2019. It was a built-i
 # Usage of Statistics
 Just include all the source code files in your project files.
 
-# Bugs Report
+# Bugs Report & New Ideas
 Send an issue and/or E-mail me at 959220793@qq.com
 
 # Contact Me
