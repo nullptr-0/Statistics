@@ -1,0 +1,3 @@
+#define DATASIZE 5000
+#define GROUPSIZE 1000
+#define SUBJECTSIZE 1000
